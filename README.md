@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Diogo Sousa, Android Devloper . 
+### Olá ! Eu sou o Diogo Sousa, Android Developer . 
 
 🖐️
 
@@ -7,6 +7,7 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DiogoSousaN)
 
 ![Diogo GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoSousa80&show_icons=true&theme=radical)
+
 
 
 ## Hard skills
