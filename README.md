@@ -1,4 +1,4 @@
-### Olá ! Eu sou o Diogo Sousa, Desenvolvedor Java. 
+### Olá ! Eu sou o Diogo Sousa, Desenvolvedor Android. 
 
 🖐️
 
