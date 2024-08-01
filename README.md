@@ -1,5 +1,7 @@
 ### Olá ! Eu sou o Diogo Sousa, Desenvolvedor Android. 
 
+“Eu sou o pão da vida; o que vem a mim jamais terá fome; e o que crê em mim jamais terá sede”, (João 6:35).
+
 🖐️
 
 [![linkedinn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-sousa-61a04669/)
